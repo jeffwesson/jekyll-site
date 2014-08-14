@@ -3,7 +3,7 @@ title: Jeff Wesson's Jekyll Site
 email: jeff@jeffwesson.com
 description: > # this means to ignore newlines until "baseurl:"
   Jeff Wesson is a frontend developer passionate about making the Web a better place to share information.
-baseurl: "/jekyll-site/" # the subpath of your site, e.g. /blog/
+baseurl: "/jekyll-site" # the subpath of your site, e.g. /blog/
 url: "http://jeffwesson.github.io" # the base hostname & protocol for your site
 twitter_username: jeffwesson
 github_username:  jeffwesson
